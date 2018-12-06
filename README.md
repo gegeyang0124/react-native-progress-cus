@@ -4,7 +4,7 @@
 ### 安装
 npm i --save react-native-progress-cus
 
-### react-native-progress的修改
+### 修改react-native-progress的内容
 1.修改渲染逻辑 <br>
 2.修改了Circle的formatText 使其可以传入自定义UI <br>
 3.增加属性isCenterDefaultUI:是否使用formatText的默认ui，默认是使用 true；否则false，自定义formatText的UI <br>
