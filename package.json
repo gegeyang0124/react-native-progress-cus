@@ -1,0 +1,44 @@
+{
+  "name": "react-native-progress-cus",
+  "version": "1.0.0",
+  "description": "基于react-native-progress@3.4.0进行修改的，基本遵循其属性和方法设定，主要修改一些方法和渲染逻辑",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegeyang0124/react-native-progress-cus.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "ui",
+    "progress",
+    "progressindicator",
+    "circle",
+    "pie",
+    "bar",
+    "progressbar",
+    "indeterminate",
+    "spinner",
+    "animation",
+    "加载",
+    "进度"
+  ],
+  "author": {
+    "name": "周阳",
+    "email": "584450903@qq.com",
+    "url": "https://github.com/gegeyang0124",
+    "blog":"http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gegeyang0124/react-native-progress-cus/issues"
+  },
+  "homepage": "https://github.com/gegeyang0124/react-native-progress-cus#readme"
+}
